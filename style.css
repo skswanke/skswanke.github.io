@@ -11,3 +11,8 @@
     top: 0;
     border-width: 0 0 0px;
 }
+
+h3 {
+	font-size: 1.5em;
+    margin: 0;
+}
