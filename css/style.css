@@ -1,0 +1,27 @@
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #BD0000;
+}
+
+.navbar-inverse {
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 0px;
+}
+
+h3 {
+	font-size: 1.5em;
+    margin: 10px 0 0 0;
+}
+
+h4 {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+img.icon.icon--github {
+    width: 30%;
+}
