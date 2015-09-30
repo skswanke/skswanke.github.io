@@ -12,4 +12,4 @@ github_username:  skswanke
 
 # Build settings
 markdown: kramdown
-highlighter: rogue
+highlighter: pygments
