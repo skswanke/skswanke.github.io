@@ -6,8 +6,8 @@ var Prescreen = React.createClass({
     this.setState({value: this.parseText(this.refs.textarea.value)});
   },
   parseText: function (rawText) {
-    lines = rawText.split('\n');
-    outArray = {};
+    var lines = rawText.split('\n');
+    var outArray = {};
     for (line in lines){
       key, val = line.split(":");
       outArray[key] = val;
@@ -15,7 +15,7 @@ var Prescreen = React.createClass({
     return outArray;
   },
   printKeys: function (vals) {
-    output = "";
+    var output = "";
     for (key in vals) {
       output.append(key + ": " + vals[key]);
     }
