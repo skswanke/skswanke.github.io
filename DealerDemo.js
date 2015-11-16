@@ -15,7 +15,7 @@ var Prescreen = React.createClass({
     return outArray;
   },
   rawMarkup: function() {
-    return { __html: marked(this.state.value, {sanitize: true}) };
+    return { __html: this.state.value };
   },
   render: function() {
     return (
