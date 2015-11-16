@@ -14,6 +14,13 @@ var Prescreen = React.createClass({
     }
     return outArray;
   },
+  printKeys: function (vals) {
+    output = "";
+    for (key in vals) {
+      output.append(key + ": " + vals[key]);
+    }
+    return output;
+  },
   rawMarkup: function() {
     return { __html: this.state.value };
   },
@@ -24,7 +31,7 @@ var Prescreen = React.createClass({
         <textarea
           onChange={this.handleChange}
           ref="textarea"
-          defaultValue={this.state.value} />
+          defaultValue={this.printKeys(this.state.value)} />
         <h3>Output</h3>
         <div
           className="content"
