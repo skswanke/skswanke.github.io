@@ -164,7 +164,7 @@ nav li {
     padding: 0;
 }
 
-nav li.activePage {
+nav li.active {
     color: white;
     background-color: #3E3E3E;
 }
