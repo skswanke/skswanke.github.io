@@ -8,7 +8,7 @@ permalink: /projects/
 <h1>Projects</h1>
 <ul>
   <li>
-    <a href="https://github.com/skswanke/PythonWebCheck" target="_blank"><img src="images/python.png"
+    <a href="https://github.com/skswanke/PythonWebCheck" target="_blank"><img src="{{ site.url }}/images/python.png"
  alt="Python"></a>
     <h3><a href="https://github.com/skswanke/PythonWebCheck" target="_blank">Python Web Crawler</a></
 h3>
@@ -27,7 +27,7 @@ h3>
     </ul>
   </li>
   <li>
-    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="images/logosketch.png" alt
+    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="{{ site.url }}/images/logosketch.png" alt
 ="Harvesting Happiness"></a>
     <h3><a href="http://www.harvestinghappiness.org" target="_blank">harvestinghapiness.org</a></h3>
     <ul>
@@ -36,7 +36,7 @@ h3>
     </ul>
   </li>
   <li>
-    <a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank"><img src="images/
+    <a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank"><img src="{{ site.url }}/images/
 react.png" alt="React.js"></a>
     <h3><a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank">React Weather App
 </a></h3>
@@ -48,7 +48,7 @@ react.png" alt="React.js"></a>
     </ul>
   </li>
   <li>
-    <a href="https://github.com/skswanke/EXIFPhotoSort"><img src="images/csharp.png" alt="C#"></a>
+    <a href="https://github.com/skswanke/EXIFPhotoSort"><img src="{{ site.url }}/images/csharp.png" alt="C#"></a>
     <h3><a href="https://github.com/skswanke/EXIFPhotoSort">EXIF Photo Sort</a></h3>
     <ul>
       <li>Sorts images in a directory into subfolders</li>
@@ -58,7 +58,7 @@ subfolders</li>
     </ul>
   </li>
   <li>
-  	<a href="https://github.com/skswanke/PythonImageScraper" target="_blank"><img src="images/python.
+  	<a href="https://github.com/skswanke/PythonImageScraper" target="_blank"><img src="{{ site.url }}/images/python.
 png" alt="Python"></a>
     <h3><a href="https://github.com/skswanke/PythonImageScraper" target="_blank">Python Image Scrape
 </a></h3>
@@ -68,7 +68,7 @@ png" alt="Python"></a>
     </ul>
   </li>
   <li>
-    <a href="https://github.com/blewin1/gmapsnake" target="_blank"><img src="images/gmaps.png" alt="
+    <a href="https://github.com/blewin1/gmapsnake" target="_blank"><img src="{{ site.url }}/images/gmaps.png" alt="
 Google Maps"></a>
     <h3><a href="https://github.com/blewin1/gmapsnake" target="_blank">Google Maps Snake</a></h3>
     <ul>
@@ -79,7 +79,7 @@ Google Maps"></a>
     </ul>
   </li>
   <li>
-    <a href="https://github.com/skswanke/DjangoProject" target="_blank"><img src="images/django.png" 
+    <a href="https://github.com/skswanke/DjangoProject" target="_blank"><img src="{{ site.url }}/images/django.png" 
 alt="Django"></a>
     <h3><a href="https://github.com/skswanke/DjangoProject" target="_blank">Django Project</a></h3>
     <ul>
