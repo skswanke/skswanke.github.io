@@ -315,6 +315,7 @@ ul.exp h4 {
 }
 #index ul li {
     margin: 10px;
+    display: inline-block;
 }
 #index ul {
     list-style: none;
