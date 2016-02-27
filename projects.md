@@ -5,6 +5,7 @@ description: Sam Swanke has worked on a large variety of projects and technologi
 permalink: /projects/
 ---
 
+<div id="projects">
 <h1>Projects</h1>
 <ul>
   <li>
@@ -88,3 +89,4 @@ href="https://docs.djangoproject.com/en/1.7/intro/tutorial01/">here</a></li>
     </ul>
   </li>
 </ul>
+</div>
