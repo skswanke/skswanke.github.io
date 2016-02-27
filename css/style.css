@@ -271,7 +271,7 @@ ul.exp h4 {
     list-style-type: circle;
 }
 
-#projects #main > ul > li > ul {
+#main #projects > ul > li > ul {
     margin-left: 100px;
 }
 
@@ -281,7 +281,7 @@ ul.exp h4 {
     margin-right: 10px;
 }
 
-#projects #main a {
+ #main #projects a {
     text-decoration: none;
     color: #D66464;
 }
