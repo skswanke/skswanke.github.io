@@ -11,8 +11,7 @@ permalink: /projects/
   <li>
     <a href="https://github.com/skswanke/PythonWebCheck" target="_blank"><img src="{{ site.url }}/images/python.png"
  alt="Python"></a>
-    <h3><a href="https://github.com/skswanke/PythonWebCheck" target="_blank">Python Web Crawler</a></
-h3>
+    <h3><a href="https://github.com/skswanke/PythonWebCheck" target="_blank">Python Web Crawler</a></h3>
     <ul>
       <li>Multithreaded Python Web Crawler</li>
       <li>Iteratively checks every page on a website, using Queueing and Threading</li>
