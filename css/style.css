@@ -336,3 +336,9 @@ input[type="email"] input:invalid{
 .mistake {
     border: 3px solid red; !important
 }   
+
+@media only screen and (max-width : 522px) {
+    nav a {
+        font-size: 0.6em
+    }
+}
