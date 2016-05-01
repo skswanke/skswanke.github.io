@@ -19,7 +19,86 @@ permalink: /guitar/
 	$('.menu a').click(function() {
 		console.log(this)
 		if($(this).hasClass('MaC')){
-			alert("test");
+			$(".activity").html("\
+                     <div class='MaCactivity'>\
+                     	<div class='chord'>\
+                     	</div>\
+                     	<div class='button' onclick='newChord('Ma')>\
+                     		New Chord\
+                     	</div>\
+                     </div>\
+				");
+		}
+		else if ($(this).hasClass('MiC')){
+			$(".activity").html("\
+                     <div class='MiCactivity'>\
+                     	<div class='chord'>\
+                     	</div>\
+                     	<div class='button' onclick='newChord('Mi')>\
+                     		New Chord\
+                     	</div>\
+                     </div>\
+				");
+		}
+		else if ($(this).hasClass('MaS')){
+			$(".activity").html("\
+                     <div class='MaSactivity'>\
+                     	<div class='chord'>\
+                     	</div>\
+                     	<div class='button' onclick='newChord('Ma')>\
+                     		New Scale\
+                     	</div>\
+                     </div>\
+				");
+		}
+		else if ($(this).hasClass('strum')){
+			$(".activity").html("\
+                     <div class='MiCactivity'>\
+                     	<div class='chord'>\
+                     	</div>\
+                     	<div class='button' onclick='newChord('strum')'>\
+                     		New Pattern\
+                     	</div>\
+                     </div>\
+				");
+		}
+		else if ($(this).hasClass('rand')){
+			$(".activity").html("\
+                     <div class='randactivity'>\
+                     	<div class='chord'>\
+                     	</div>\
+                     	<div class='button' onclick='newChord('rand')'>\
+                     		New Random\
+                     	</div>\
+                     </div>\
+				");
 		}
 	});
+
+	function newChord(a) {
+		notes = ["A", "A#", "Bb", "B", "C", "C#", "Db", "D", "D#", "Eb", "E", "F", "F#", "Gb", "G", "G#", "Ab"];
+		scales = ["Major", "Minor"];
+		strums = ["D","U","o"];
+		rands = ["Ma", "Mi", "strum"];
+		randNote = notes[Math.floor((Math.random() * 16)];
+		if (a=="Ma"){
+			$('.chord').html(randNote + " " + scales[0]);
+		}
+		else if (a=="Mi"){
+			$('.chord').html(randNote + " " + scales[1]);
+		}
+		else if (a=="strum"){
+			bars = "";
+			for (var i = 0; i < 4; i++) {
+				for (var j = 0; j < 4; j++) {
+					bars = bars + strums[Math.floor((Math.random() * 3)];
+				}
+				bars = bars + "|";
+			}
+			$('.chord').html("[" + bars + "]");
+		}
+		else {
+			newChord(rands[Math.floor((Math.random() * 3)])
+		}
+	}
 </script>
