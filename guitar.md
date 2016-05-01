@@ -92,7 +92,7 @@ ul.menu {
                      		New Chord\
                      	</div>\
                      	<div class='button' onclick='var interval = setInterval(function(){newChord(\"Ma\")}, 5000)'>Every 5 seconds</div>\
-                     	<div class='button' onclick='clearInterval(interval)'>Clear</div>\
+                     	<div class='button' onclick='clearInterval(interval)'><a href=\"\">Clear</a></div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -107,7 +107,7 @@ ul.menu {
                      		New Chord\
                      	</div>\
                      	<div class='button' onclick='var interval = setInterval(function(){newChord(\"Mi\")}, 5000)'>Every 5 seconds</div>\
-                     	<div class='button' onclick='clearInterval(interval)'>Clear</div>\
+                     	<div class='button' onclick='clearInterval(interval)'><a href=\"\">Clear</a></div>\
                      </div>\
 				");
 			newChord("Mi")
@@ -122,7 +122,7 @@ ul.menu {
                      		New Scale\
                      	</div>\
                      	<div class='button' onclick='var interval = setInterval(function(){newChord(\"Ma\")}, 5000)'>Every 5 seconds</div>\
-                     	<div class='button' onclick='clearInterval(interval)'>Clear</div>\
+                     	<div class='button' onclick='clearInterval(interval)'><a href=\"\">Clear</a></div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -137,7 +137,7 @@ ul.menu {
                      		New Pattern\
                      	</div>\
                      	<div class='button' onclick='var interval = setInterval(function(){newChord(\"strum\")}, 5000)'>Every 5 seconds</div>\
-                     	<div class='button' onclick='clearInterval(interval)'>Clear</div>\
+                     	<div class='button' onclick='clearInterval(interval)'><a href=\"\">Clear</a></div>\
                      </div>\
 				");
 			newChord("strum")
@@ -152,7 +152,7 @@ ul.menu {
                      		New Random\
                      	</div>\
                      	<div class='button' onclick='var interval = setInterval(function(){newChord(\"rand\")}, 5000)'>Every 5 seconds</div>\
-                     	<div class='button' onclick='clearInterval(interval)'>Clear</div>\
+                     	<div class='button' onclick='clearInterval(interval)'><a href=\"\">Clear</a></div>\
                      </div>\
 				");
 			newChord("rand")
