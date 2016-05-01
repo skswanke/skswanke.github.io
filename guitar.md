@@ -23,7 +23,7 @@ permalink: /guitar/
                      <div class='MaCactivity'>\
                      	<div class='chord'>\
                      	</div>\
-                     	<div class='button' onclick='newChord('Ma')'>\
+                     	<div class='button' onclick='newChord(\"Ma\")'>\
                      		New Chord\
                      	</div>\
                      </div>\
@@ -35,7 +35,7 @@ permalink: /guitar/
                      <div class='MiCactivity'>\
                      	<div class='chord'>\
                      	</div>\
-                     	<div class='button' onclick='newChord('Mi')'>\
+                     	<div class='button' onclick='newChord(\"Mi\")'>\
                      		New Chord\
                      	</div>\
                      </div>\
@@ -47,7 +47,7 @@ permalink: /guitar/
                      <div class='MaSactivity'>\
                      	<div class='chord'>\
                      	</div>\
-                     	<div class='button' onclick='newChord('Ma')'>\
+                     	<div class='button' onclick=\"newChord('Ma')\">\
                      		New Scale\
                      	</div>\
                      </div>\
@@ -59,7 +59,7 @@ permalink: /guitar/
                      <div class='MiCactivity'>\
                      	<div class='chord'>\
                      	</div>\
-                     	<div class='button' onclick='newChord('strum')'>\
+                     	<div class='button' onclick=\"newChord('strum')\">\
                      		New Pattern\
                      	</div>\
                      </div>\
@@ -71,7 +71,7 @@ permalink: /guitar/
                      <div class='randactivity'>\
                      	<div class='chord'>\
                      	</div>\
-                     	<div class='button' onclick='newChord('rand')'>\
+                     	<div class='button' onclick=\"newChord('rand')\">\
                      		New Random\
                      	</div>\
                      </div>\
