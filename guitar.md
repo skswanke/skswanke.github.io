@@ -80,7 +80,7 @@ permalink: /guitar/
 		scales = ["Major", "Minor"];
 		strums = ["D","U","o"];
 		rands = ["Ma", "Mi", "strum"];
-		randNote = notes[Math.floor((Math.random() * 16)];
+		randNote = notes[Math.floor(Math.random() * 16)];
 		if (a=="Ma"){
 			$('.chord').html(randNote + " " + scales[0]);
 		}
@@ -91,14 +91,14 @@ permalink: /guitar/
 			bars = "";
 			for (var i = 0; i < 4; i++) {
 				for (var j = 0; j < 4; j++) {
-					bars = bars + strums[Math.floor((Math.random() * 3)];
+					bars = bars + strums[Math.floor(Math.random() * 3)];
 				}
 				bars = bars + "|";
 			}
 			$('.chord').html("[" + bars + "]");
 		}
 		else {
-			newChord(rands[Math.floor((Math.random() * 3)])
+			newChord(rands[Math.floor(Math.random() * 3)])
 		}
 	}
 </script>
