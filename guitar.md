@@ -50,6 +50,8 @@ ul.menu {
 }
 
 .button {
+	display: inline-block;
+	vertical-align: top;
     background-color: #FF9999;
     width: 100px;
     text-align: center;
@@ -85,6 +87,7 @@ ul.menu {
                      <div class='MaCactivity'>\
                      	<div class='chord'>\
                      	</div>\
+                     	<div style='display:block'> </div>\
                      	<div class='button' onclick='newChord(\"Ma\")'>\
                      		New Chord\
                      	</div>\
@@ -99,6 +102,7 @@ ul.menu {
                      <div class='MiCactivity'>\
                      	<div class='chord'>\
                      	</div>\
+                     	<div style='display:block'> </div>\
                      	<div class='button' onclick='newChord(\"Mi\")'>\
                      		New Chord\
                      	</div>\
@@ -113,6 +117,7 @@ ul.menu {
                      <div class='MaSactivity'>\
                      	<div class='chord'>\
                      	</div>\
+                     	<div style='display:block'> </div>\
                      	<div class='button' onclick=\"newChord('Ma')\">\
                      		New Scale\
                      	</div>\
@@ -127,6 +132,7 @@ ul.menu {
                      <div class='MiCactivity'>\
                      	<div class='chord'>\
                      	</div>\
+                     	<div style='display:block'> </div>\
                      	<div class='button' onclick=\"newChord('strum')\">\
                      		New Pattern\
                      	</div>\
@@ -141,6 +147,7 @@ ul.menu {
                      <div class='randactivity'>\
                      	<div class='chord'>\
                      	</div>\
+                     	<div style='display:block'> </div>\
                      	<div class='button' onclick=\"newChord('rand')\">\
                      		New Random\
                      	</div>\
