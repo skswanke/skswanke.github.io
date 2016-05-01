@@ -163,7 +163,7 @@ ul.menu {
 						bars = bars + strums[Math.round(Math.random()) ? 1 : 2];
 					}
 				}
-				bars = bars + "|";
+				if(i != 3) {bars = bars + "|";}
 			}
 			$('.chord').html("[" + bars + "]");
 		}
