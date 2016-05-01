@@ -183,7 +183,8 @@ ul.menu {
 		$('.chord').css('background-color', 'rgba('+ x + ',' + y + ',' + z +', 0.3)');
 		if (time) {
 			for (var i = 0; i < time; i++) {
-				setTimeout(function() {$('.chord').append('<br>' + (5-i))}, 1);
+				$('.chord').append('<br>' + (5-i))
+				setTimeout(1);
 			}
 			newChord(a, time);
 		}
