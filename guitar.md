@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Guitar
+description: A page for guitar practice exercises.
 permalink: /guitar/
 ---
 
