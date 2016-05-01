@@ -88,7 +88,7 @@ ul.menu {
                      	<div class='button' onclick='newChord(\"Ma\")'>\
                      		New Chord\
                      	</div>\
-                     	<div class='button' onclick'newChord(\"Ma\",\"5000\")>Every 5 seconds</div>\
+                     	<div class='button' onclick'newChord(\"Ma\",\"5\")>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -101,7 +101,7 @@ ul.menu {
                      	<div class='button' onclick='newChord(\"Mi\")'>\
                      		New Chord\
                      	</div>\
-                     	<div class='button' onclick'newChord(\"Mi\",\"5000\")>Every 5 seconds</div>\
+                     	<div class='button' onclick'newChord(\"Mi\",\"5\")>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Mi")
@@ -114,7 +114,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('Ma')\">\
                      		New Scale\
                      	</div>\
-                     	<div class='button' onclick'newChord(\"Ma\",\"5000\")>Every 5 seconds</div>\
+                     	<div class='button' onclick'newChord(\"Ma\",\"5\")>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -127,7 +127,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('strum')\">\
                      		New Pattern\
                      	</div>\
-                     	<div class='button' onclick'newChord(\"strum\",\"5000\")>Every 5 seconds</div>\
+                     	<div class='button' onclick'newChord(\"strum\",\"5\")>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("strum")
@@ -140,7 +140,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('rand')\">\
                      		New Random\
                      	</div>\
-                     	<div class='button' onclick'newChord(\"rand\",\"5000\")>Every 5 seconds</div>\
+                     	<div class='button' onclick'newChord(\"rand\",\"5\")>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("rand")
@@ -182,7 +182,10 @@ ul.menu {
 		z = Math.floor(Math.random() * 255)
 		$('.chord').css('background-color', 'rgba('+ x + ',' + y + ',' + z +', 0.3)');
 		if (time) {
-			setTimeout(newChord(a, time), time);
+			for (var i = 0; i < time; i++) {
+				setTimeout(function() {$('.chord').append('<br>' + (5-i))}, 1);
+			}
+			newChord(a, time);
 		}
 	}
 </script>
