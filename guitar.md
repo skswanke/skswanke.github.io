@@ -28,6 +28,7 @@ permalink: /guitar/
                      	</div>\
                      </div>\
 				");
+			newChord("Ma")
 		}
 		else if ($(this).hasClass('MiC')){
 			$(".activity").html("\
@@ -39,6 +40,7 @@ permalink: /guitar/
                      	</div>\
                      </div>\
 				");
+			newChord("Mi")
 		}
 		else if ($(this).hasClass('MaS')){
 			$(".activity").html("\
@@ -50,6 +52,7 @@ permalink: /guitar/
                      	</div>\
                      </div>\
 				");
+			newChord("Ma")
 		}
 		else if ($(this).hasClass('strum')){
 			$(".activity").html("\
@@ -61,6 +64,7 @@ permalink: /guitar/
                      	</div>\
                      </div>\
 				");
+			newChord("strum")
 		}
 		else if ($(this).hasClass('rand')){
 			$(".activity").html("\
@@ -72,7 +76,9 @@ permalink: /guitar/
                      	</div>\
                      </div>\
 				");
+			newChord("rand")
 		}
+
 	});
 
 	function newChord(a) {
