@@ -171,5 +171,9 @@ ul.menu {
 		else {
 			newChord(rands[Math.floor(Math.random() * 3)])
 		}
+		x = Math.floor(Math.random() * 255)
+		y = Math.floor(Math.random() * 255)
+		z = Math.floor(Math.random() * 255)
+		$('.chord').css('background-color', 'rgba('+ x + ',' + y + ',' + z +', 0.3)');
 	}
 </script>
