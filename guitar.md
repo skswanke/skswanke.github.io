@@ -18,7 +18,7 @@ permalink: /guitar/
 <script type="text/javascript">
 	$('.menu a').click(function() {
 		console.log(this)
-		if($(this).hasClass('.MaC')){
+		if($(this).hasClass('MaC')){
 			alert("test");
 		}
 	});
