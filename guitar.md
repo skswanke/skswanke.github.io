@@ -4,11 +4,71 @@ title: About
 permalink: /guitar/
 ---
 
+<style type="text/css">
+ul.menu {
+	display: inline-block;
+	padding: 0;
+    margin: auto;
+	width: 100%;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu a{
+	display: inline-block;
+	padding: 10px;
+	margin: 5px;
+	text-align: center;
+	height: 50px;
+	background-color: #A6B1FF;
+	font-size: 1.2em;
+	color: white;
+	border-radius: 10px;
+}
+.menu a:hover {
+	background-color: #8090FF;
+}
+
+.activity {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 60px 0;
+}
+
+.chord {
+    padding: 70px;
+    background-color: rgba(1,1,1,0.3);
+    display: inline-block;
+    font-size: 1.4em;
+    font-family: Century Gothic;
+}
+
+.button {
+    background-color: #FF9999;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border-radius: 22px;
+    margin-top: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.14);
+}
+
+.button:hover {
+	background-color: #F96565;
+}
+</style>
+
 <ul class="menu">
 	<li><a class="MaC">Major Chords</a></li>
 	<li><a class="MiC">Minor Chords</a></li>
 	<li><a class="MaS">Major Scales</a></li>
 	<li><a class="strum">Strumming</a></li>
+	<li><a class="rand">Random</a></li>
 </ul>
 
 <div class="activity">
@@ -97,7 +157,11 @@ permalink: /guitar/
 			bars = "";
 			for (var i = 0; i < 4; i++) {
 				for (var j = 0; j < 4; j++) {
-					bars = bars + strums[Math.floor(Math.random() * 3)];
+					if (j%2==0){
+						bars = bars + strums[Math.round(Math.random()) ? 0 : 2];
+					} else {
+						bars = bars + strums[Math.round(Math.random()) ? 1 : 2];
+					}
 				}
 				bars = bars + "|";
 			}
