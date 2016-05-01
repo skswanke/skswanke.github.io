@@ -186,7 +186,6 @@ ul.menu {
 				$('.chord').append(' ' + (5-i))
 				setTimeout(1000);
 			}
-			newChord(a, time);
 		}
 	}
 </script>
