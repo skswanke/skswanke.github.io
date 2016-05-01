@@ -10,6 +10,7 @@ ul.menu {
 	padding: 0;
     margin: auto;
 	width: 100%;
+	text-align: center;
 }
 
 .menu li {
