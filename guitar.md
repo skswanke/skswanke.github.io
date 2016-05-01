@@ -42,6 +42,7 @@ ul.menu {
 
 .chord {
     padding: 70px;
+    width: 150px;
     background-color: rgba(1,1,1,0.3);
     display: inline-block;
     font-size: 1.4em;
