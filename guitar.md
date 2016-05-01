@@ -88,7 +88,7 @@ ul.menu {
                      	<div class='button' onclick='newChord(\"Ma\")'>\
                      		New Chord\
                      	</div>\
-                     	<div class='button' onclick='newChord(\"Ma\",\"5\")'>Every 5 seconds</div>\
+                     	<div class='button' onclick='setInterval(newChord(\"Ma\"), 5000)'>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -101,7 +101,7 @@ ul.menu {
                      	<div class='button' onclick='newChord(\"Mi\")'>\
                      		New Chord\
                      	</div>\
-                     	<div class='button' onclick='newChord(\"Mi\",\"5\")'>Every 5 seconds</div>\
+                     	<div class='button' onclick='setInterval(newChord(\"Mi\"), 5000)'>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Mi")
@@ -114,7 +114,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('Ma')\">\
                      		New Scale\
                      	</div>\
-                     	<div class='button' onclick='newChord(\"Ma\",\"5\")'>Every 5 seconds</div>\
+                     	<div class='button' onclick='setInterval(newChord(\"Ma\"), 5000)'>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("Ma")
@@ -127,7 +127,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('strum')\">\
                      		New Pattern\
                      	</div>\
-                     	<div class='button' onclick='newChord(\"strum\",\"5\")'>Every 5 seconds</div>\
+                     	<div class='button' onclick='setInterval(newChord(\"strum\"), 5000)'>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("strum")
@@ -140,7 +140,7 @@ ul.menu {
                      	<div class='button' onclick=\"newChord('rand')\">\
                      		New Random\
                      	</div>\
-                     	<div class='button' onclick='newChord(\"rand\",\"5\")'>Every 5 seconds</div>\
+                     	<div class='button' onclick='setInterval(newChord(\"rand\"), 5000)'>Every 5 seconds</div>\
                      </div>\
 				");
 			newChord("rand")
@@ -148,7 +148,7 @@ ul.menu {
 
 	});
 
-	function newChord(a,time) {
+	function newChord(a) {
 		notes = ["A", "A#", "Bb", "B", "C", "C#", "Db", "D", "D#", "Eb", "E", "F", "F#", "Gb", "G", "G#", "Ab"];
 		scales = ["Major", "Minor"];
 		strums = ["D","U","o"];
@@ -181,11 +181,5 @@ ul.menu {
 		y = Math.floor(Math.random() * 255)
 		z = Math.floor(Math.random() * 255)
 		$('.chord').css('background-color', 'rgba('+ x + ',' + y + ',' + z +', 0.3)');
-		if (time) {
-			for (var i = 0; i < time; i++) {
-				$('.chord').append(' ' + (5-i))
-				setTimeout(1000);
-			}
-		}
 	}
 </script>
