@@ -334,6 +334,10 @@ input[type="email"] input:invalid{
     border: 3px solid red;
 }
 
+div.spacer {
+    margin-top: 50px;
+}
+
 .mistake {
     border: 3px solid red; !important
 }   
