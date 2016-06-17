@@ -208,13 +208,14 @@ footer {
 }
 
 footer article {
-    width: 80%;
+    width: 100%;
     text-align: center;
 }
 
 footer ul {
-    text-align: left;
+    text-align: center;
     vertical-align: middle;
+    list-style: none;
 }
 
 .github {
