@@ -7,6 +7,7 @@ permalink: /projects/
 
 <div id="projects">
 <h1>Projects</h1>
+<hr>
 <ul>
   <li>
     <a href="https://github.com/skswanke/PythonWebCheck" target="_blank"><img src="{{ site.url }}/images/python.png"
