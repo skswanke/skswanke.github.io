@@ -197,13 +197,7 @@ footer {
     padding-top: 10px;
 }
 
-footer article {
-    width: 100%;
-    text-align: center;
-}
-
 footer ul {
-    text-align: center;
     vertical-align: middle;
     list-style: none;
 }
