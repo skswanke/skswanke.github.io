@@ -11,12 +11,6 @@ body{
     border-radius: 15px;
 }
 
-#main{
-    margin: auto;
-    max-width: 900px; 
-    padding: 0 10px;
-}
-
 #other{
     float: right;
     width: 36.7777778%; 
