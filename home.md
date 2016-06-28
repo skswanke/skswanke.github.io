@@ -6,6 +6,7 @@ permalink: /
 ---
 
 <h1>Home</h1>
+<hr>
 <h3>Education</h3>
 <h4>University of Vermont</h4>
 <div id="index">
