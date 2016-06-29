@@ -279,8 +279,7 @@ ul.exp h4 {
     margin-right: 10px;
 }
 #index ul li {
-    margin: 10px;
-    display: inline-block;
+    margin: 5px 0;
 }
 #index ul {
     list-style: none;
