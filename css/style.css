@@ -226,6 +226,7 @@ ul.exp h4 {
 
 #coursework ul, #projects ul {
     list-style: none;
+    padding: 0;
 }
 
 #projects ul > li > ul {
@@ -238,7 +239,7 @@ ul.exp h4 {
 }
 
 #main #projects > ul > li > ul {
-    margin-left: 100px;
+    margin-left: 65px;
 }
 
 #projects img {
