@@ -14,10 +14,11 @@ permalink: /coursework/
     		<li>Datastructures and Algorithms <i>Searching, Sorting, Arrays, Linked Lists, Stacks, 
 Queues, Hashing</i></li>
     		<li>Computational Theory <i>Automata, P/NP, Turing Machines</i></li>
-	    	<li>Database Systems <i>Oracle SQL, PL/SQL, Normalization, Disk Writing, Query 
+	    	<li>Database Systems <i>Oracle SQL, PL/SQL, Normalization, Disk Write Optimization, Query 
 Optimization</i></li>
 	    	<li>Database Design for the Web <i>MySQL, PHP, HTML</i></li>
 	    	<li>Java Programming <i>OOP, Java, GUI</i></li>
+	    	<li>Computer Organization <i>Binary, MIPS Assembly, Int/Float computation/representation</i></li>
     	    </ul>
 	</li>
 	<li><h3>Mathematics</h3>
