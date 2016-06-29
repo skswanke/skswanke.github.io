@@ -284,6 +284,7 @@ ul.exp h4 {
 }
 #index ul {
     list-style: none;
+    padding: 0;
 }
 .required {
     font-weight:bolder;
