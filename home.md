@@ -11,7 +11,7 @@ permalink: /
 <h3>Education</h3>
 <div class="col-xs-12">
 <h5>University of Vermont</h5>
-<p>Bachelor of Science in Computer Science <i>Expected May 2017</i></p>
+<p>Bachelor of Science in Computer Science Minor in Mathematics<br> <i>Expected May 2017</i></p>
 </div>
 <h3>Technical Strengths</h3>
 <div class="col-xs-6">
