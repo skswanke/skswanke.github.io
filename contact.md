@@ -4,7 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-Here are the ways to contact me:
+<h1>Home</h1>
+<hr>
 
-* Email: [skswanke@gmail.com](mailto:skswanke@gmail.com)
-* Phone: Email me to request my phone number
+<div class="col-xs-12>
+  <p>Here are the ways to contact me:
+  <ul>
+    <li>Email: <a href="mailto:skswanke@gmail.com">skswanke@gmail.com</a></li>
+    <li>Phone: Email me to request my phone number</li>
+  </ul>
+  </p>
+<div>
