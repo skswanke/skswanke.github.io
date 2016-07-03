@@ -16,11 +16,11 @@ permalink: /
 <h3>Technical Strengths</h3>
 <div class="col-xs-6">
 <ul><h5>Languages/Web Markup</h5><hr>
+	<li><img src="{{ site.url }}/images/java.png" alt="Java">Java</li>
 	<li><img src="{{ site.url }}/images/python.png" alt="Python"> Python</li>
 	<li><img src="{{ site.url }}/images/js.png" alt="JavaScript">JavaScript</li>
 	<li><img src="{{ site.url }}/images/php.png" alt="PHP">PHP</li>
 	<li><img src="{{ site.url }}/images/html.png" alt="HTML/CSS">HTML/CSS</li>
-	<li><img src="{{ site.url }}/images/java.png" alt="Java">Java</li>
 	<li><img src="{{ site.url }}/images/csharp.png" alt="C#">C#</li>
 </ul>
 </div>
