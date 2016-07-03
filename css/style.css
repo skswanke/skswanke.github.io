@@ -4,6 +4,14 @@ body{
     font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 } 
 
+h1 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
 #page{
     margin: 0 auto 53px;
     width: 93.75%; 
