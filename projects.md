@@ -28,7 +28,7 @@ permalink: /projects/
     </ul>
   </li>
   <li>
-    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="{{ site.url }}/images/logosketch.png" alt
+    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="{{ site.url }}/images/harvesting.png" alt
 ="Harvesting Happiness"></a>
     <h4><a href="http://www.harvestinghappiness.org" target="_blank">harvestinghapiness.org</a></h4>
     <ul>
