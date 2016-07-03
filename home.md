@@ -7,9 +7,11 @@ permalink: /
 
 <h1>Home</h1>
 <hr>
-<h3>Education</h3>
-<h5>University of Vermont</h5>
 <div id="index">
+<h3>Education</h3>
+<div class="col-xs-12">
+<h5>University of Vermont</h5>
+</div>
 <h3>Technical Strengths</h3>
 <div class="col-xs-6">
 <ul><h5>Languages/Web Markup</h5><hr>
