@@ -4,10 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-<h1>Home</h1>
+<h1>Contact</h1>
 <hr>
 
-<div class="col-xs-12>
+<div class="col-xs-12">
   <p>Here are the ways to contact me:
   <ul>
     <li>Email: <a href="mailto:skswanke@gmail.com">skswanke@gmail.com</a></li>
