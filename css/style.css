@@ -287,6 +287,11 @@ ul.exp h4 {
     list-style: none;
     padding: 0;
 }
+
+#coursework > ul > li > ul {
+    padding-left: 2em;
+}
+
 .required {
     font-weight:bolder;
     font-style:italic;
