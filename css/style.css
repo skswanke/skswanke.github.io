@@ -195,6 +195,13 @@ header h1 {
     background-color: #3E3E3E;
 }
 
+.navbar-toggle {
+    background-color: lightgrey;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: grey;
+}
 
 nav a {
     text-decoration: none;
