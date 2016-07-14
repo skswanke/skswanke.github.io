@@ -136,15 +136,61 @@ header h1 {
     padding: 0;
 }
 
-nav li {
-    text-align: center;
-    padding: 0;
+/* Begin Desktop Nav */
+@media (min-width: 768px){
+    nav li {
+        text-align: center;
+        padding: 0;
+    }
+    
+    nav li.active {
+        color: white;
+        background-color: #3E3E3E;
+        padding: 14.5px;
+    }
+    nav#nav {
+        display: flex;
+        height: 50px;
+        overflow: hidden;
+        justify-content: center;
+        border-top: 1px solid grey;
+        border-bottom: 1px solid grey;
+        margin-bottom: 10px;
+    }
+    
+    #navbar {
+        display: flex!important;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .fixed {
+        position: fixed;
+        top: 0;
+        height: 50px;
+        left: 50%;
+        z-index: 1000;
+        transform: translate(-50%,0);
+        -webkit-transform: translate(-50%,0);
+        border-top: 0!important;
+        margin-bottom: 50px;
+        width: 100%;
+        background-color: rgba(255,255,255,0.9);
+        box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+
+    .nav-wrap {
+        height: 50px;
+    }
 }
 
-nav li.active {
-    color: white;
-    background-color: #3E3E3E;
-    padding: 14.5px;
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    color: #FF4F4F;
 }
 
 .mistake {
@@ -158,22 +204,6 @@ footer hr {
 header {
     text-align: center;
     font-family: Georgia, Times, "Times New Roman", serif;
-}
-
-nav#nav {
-    display: flex;
-    height: 50px;
-    overflow: hidden;
-    justify-content: center;
-    border-top: 1px solid grey;
-    border-bottom: 1px solid grey;
-    margin-bottom: 10px;
-}
-
-#navbar {
-    display: flex!important;
-    justify-content: center;
-    align-items: center;
 }
 
 footer {
@@ -194,15 +224,6 @@ footer ul {
     align-items: center;
 }
 
-nav a {
-    text-decoration: none;
-    color: black;
-}
-
-nav a:hover {
-    color: #FF4F4F;
-}
-
 ul.exp {
     list-style: none;
     padding: 0;
@@ -215,21 +236,6 @@ ul.exp p {
 
 ul.exp h4 {
     margin-bottom: .5em;
-}
-
-.fixed {
-    position: fixed;
-    top: 0;
-    height: 50px;
-    left: 50%;
-    z-index: 1000;
-    transform: translate(-50%,0);
-    -webkit-transform: translate(-50%,0);
-    border-top: 0!important;
-    margin-bottom: 50px;
-    width: 100%;
-    background-color: rgba(255,255,255,0.9);
-    box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
 #coursework ul, #projects ul {
@@ -271,10 +277,6 @@ ul.exp h4 {
 
 #index img {
     width: 20px;
-}
-
-.nav-wrap {
-    height: 50px;
 }
 
 .contact label {
@@ -319,10 +321,4 @@ div.spacer {
 
 .mistake {
     border: 3px solid red; !important
-}   
-
-@media only screen and (max-width : 522px) {
-    nav a {
-        font-size: 0.6em;
-    }
 }
