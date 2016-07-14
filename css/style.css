@@ -170,6 +170,12 @@ nav#nav {
     margin-bottom: 10px;
 }
 
+#navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 footer {
     border-top: 1px solid grey;
     margin-top: 10px;
