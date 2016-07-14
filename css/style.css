@@ -32,7 +32,6 @@ header h1 {
 nav ul li{
     display: inline-block;
     list-style-type: none;
-    padding: 14.5px;
 }
 
 aside {
@@ -145,6 +144,7 @@ nav li {
 nav li.active {
     color: white;
     background-color: #3E3E3E;
+    padding: 14.5px;
 }
 
 .mistake {
