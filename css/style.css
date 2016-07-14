@@ -29,13 +29,7 @@ header h1 {
     padding: 0.8em 5.33333333%;  
 }
 
-nav ol {
-    margin: 0;
-    padding: 0;
-    
-}
-
-nav ol li{
+nav ul li{
     display: inline-block;
     list-style-type: none;
     padding: 14.5px;
@@ -166,7 +160,7 @@ header {
     font-family: Georgia, Times, "Times New Roman", serif;
 }
 
-nav {
+nav#nav {
     display: flex;
     height: 50px;
     overflow: hidden;
