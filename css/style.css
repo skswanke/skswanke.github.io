@@ -125,6 +125,7 @@ header {
         linear-gradient(
           #E6E6E6, white
         );
+    display: none;
 }
 
 header h1, .navbar-brand {
