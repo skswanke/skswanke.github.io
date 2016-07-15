@@ -199,6 +199,7 @@ header h1, .navbar-brand {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 2em;
 }
 
 .active {
