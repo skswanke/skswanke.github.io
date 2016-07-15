@@ -187,11 +187,17 @@ header h1, .navbar-brand {
         height: 50px;
     }
     
-
+    .navbar-brand{
+        display: none;
+    }
 }
 
 .navbar-brand{
-    display: none;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .active {
