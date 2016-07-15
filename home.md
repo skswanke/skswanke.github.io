@@ -14,7 +14,7 @@ permalink: /
 <p>Bachelor of Science in Computer Science Minor in Mathematics<br> <i>Expected May 2017</i></p>
 </div>
 <h3>Technical Strengths</h3>
-<div class="col-xs-6">
+<div class="col-sm-6">
 <ul><h5>Languages/Web Markup</h5><hr>
 	<li><img src="{{ site.url }}/images/java.png" alt="Java">Java</li>
 	<li><img src="{{ site.url }}/images/python.png" alt="Python"> Python</li>
@@ -24,7 +24,7 @@ permalink: /
 	<li><img src="{{ site.url }}/images/csharp.png" alt="C#">C#</li>
 </ul>
 </div>
-<div class="col-xs-6">
+<div class="col-sm-6">
 <ul><h5>Libraries/APIs</h5><hr>
 	<li><img src="{{ site.url }}/images/react.png" alt="ReactJS">ReactJS</li>
 	<li><img src="{{ site.url }}/images/angular.png" alt="Angular">Angular</li>
