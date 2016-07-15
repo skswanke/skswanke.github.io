@@ -188,8 +188,8 @@ header h1, .navbar-brand {
         height: 50px;
     }
     
-    .navbar-brand{
-        display: none;
+    a.navbar-brand{
+        display: none!important;
     }
 }
 
