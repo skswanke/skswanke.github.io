@@ -10,7 +10,7 @@ permalink: /coursework/
 <ul>
 	<li><h3>Computer Science</h3>
     	    <ul>
-    	    	<li>Operating Systems <i>Processes, Threads, Kernel, Memory Managment, I/O, </i></li>
+    	    	<li>Operating Systems <i>Processes, Threads, Kernel, Memory Managment, I/O</i></li>
     		<li>Algorithm Analysis &amp; Design <i>Greedy, Breadth/Depth First, Dynamic Programming, Network Flow</i></li>
     		<li>Datastructures and Algorithms <i>Searching, Sorting, Arrays, Linked Lists, Stacks, 
 Queues, Hashing</i></li>
