@@ -10,6 +10,7 @@ permalink: /coursework/
 <ul>
 	<li><h3>Computer Science</h3>
     	    <ul>
+    	    	<li>Operating Systems <i>Processes, Threads, Kernel, Memory Managment, I/O, </i></li>
     		<li>Algorithm Analysis &amp; Design <i>Greedy, Breadth/Depth First, Dynamic Programming, Network Flow</i></li>
     		<li>Datastructures and Algorithms <i>Searching, Sorting, Arrays, Linked Lists, Stacks, 
 Queues, Hashing</i></li>
@@ -26,6 +27,7 @@ Optimization</i></li>
     	        <li>Calculus I/II/III <i>Differentials, Integrals, Volumes, Series</i></li>
     	        <li>Linear Algebra <i>Matrices, Vector Spaces, Linear Transformations</i></li>
     	        <li>Combinatorics <i>Combinations/Permutations, Pigeon Hole, Graph Theory, Ramsey Numbers</i></li>
+    	        <li>Graph Theory <i>Graphs, Paths, Cycles, Max Flow Min Cut</i></li>
     	    </ul>
 	</li>
 </ul>
