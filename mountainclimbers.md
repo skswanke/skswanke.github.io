@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mountain Climbing Problem
 description: 
 permalink: /mountainclimbers/
