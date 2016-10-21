@@ -10,6 +10,16 @@ permalink: /projects/
 <hr>
 <ul>
   <li>
+    <a href="https://github.com/skswanke/pruferdecode" target="_blank"><img src="{{ site.url }}/images/d3.png"
+ alt="Python"></a>
+    <h4><a href="https://github.com/skswanke/pruferdecode" target="_blank">Prufer Code Labeled Tree Generator</a></h4>
+    <ul>
+      <li>Graph generator based on the concept of Prufer codes in graph theory</li>
+      <li>Takes a unique string of integers and outputs a unique labeled tree</li>
+      <li>Uses D3.js to create interactive graphs</li>
+    </ul>
+  </li>
+  <li>
     <a href="https://github.com/skswanke/PythonWebCheck" target="_blank"><img src="{{ site.url }}/images/python.png"
  alt="Python"></a>
     <h4><a href="https://github.com/skswanke/PythonWebCheck" target="_blank">Python Web Crawler</a></h4>
