@@ -10,6 +10,15 @@ permalink: /projects/
 <hr>
 <ul>
   <li>
+    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="{{ site.url }}/images/harvesting.png" alt
+="Harvesting Happiness"></a>
+    <h4><a href="http://www.harvestinghappiness.org" target="_blank">harvestinghapiness.org</a></h4>
+    <ul>
+      <li>Website for the nonprofit Cosechando Felicidad Inc</li>
+      <li>Made using HTML, CSS and Bootstrap</li>
+    </ul>
+  </li>
+  <li>
     <a href="https://github.com/skswanke/pruferdecode" target="_blank"><img src="{{ site.url }}/images/d3.png"
  alt="Python"></a>
     <h4><a href="https://github.com/skswanke/pruferdecode" target="_blank">Prufer Code Labeled Tree Generator</a></h4>
@@ -35,15 +44,6 @@ permalink: /projects/
         </ul>
       </li>
       <li>Automatically Posts results to BaseCamp or Slack</li>
-    </ul>
-  </li>
-  <li>
-    <a href="http://www.harvestinghappiness.org" target="_blank"><img src="{{ site.url }}/images/harvesting.png" alt
-="Harvesting Happiness"></a>
-    <h4><a href="http://www.harvestinghappiness.org" target="_blank">harvestinghapiness.org</a></h4>
-    <ul>
-      <li>Website for the nonprofit Cosechando Felicidad Inc</li>
-      <li>Made using HTML, CSS and Bootstrap</li>
     </ul>
   </li>
   <li>
@@ -77,16 +77,6 @@ react.png" alt="React.js"></a>
       <li>Uses the .NET framework to collect EXIF data from the images and then place them into new 
 subfolders</li>
       <li>Written in C# using Visual Studio</li>
-    </ul>
-  </li>
-  <li>
-  	<a href="https://github.com/skswanke/PythonImageScraper" target="_blank"><img src="{{ site.url }}/images/python.
-png" alt="Python"></a>
-    <h4><a href="https://github.com/skswanke/PythonImageScraper" target="_blank">Python Image Scrape
-</a></h4>
-    <ul>
-      <li>Uses Beautiful Soup to gather image information</li>
-      <li>Crawls a webpage or series of pages downloading all or some images</li>
     </ul>
   </li>
   <li>
