@@ -14,6 +14,8 @@ permalink: /coursework/
     		<li>Algorithm Analysis &amp; Design <i>Greedy, Breadth/Depth First, Dynamic Programming, Network Flow</i></li>
     		<li>Datastructures and Algorithms <i>Searching, Sorting, Arrays, Linked Lists, Stacks, 
 Queues, Hashing</i></li>
+		<li>Network Cryptography <i>AES, DES, RSA, Diffie-Hellman, Zero-knowledge proofs</i></li>
+		<li>Programming Languages <i>CoreML, Syntax, Semantics, Parsers, Backus-Naur form</i></li>
     		<li>Computational Theory <i>Automata, P/NP, Turing Machines</i></li>
 	    	<li>Database Systems <i>Oracle SQL, PL/SQL, Normalization, Disk Write Optimization, Query 
 Optimization</i></li>
