@@ -29,6 +29,7 @@ permalink: /
 <ul><h5>Libraries/APIs</h5><hr>
 	<li><img src="{{ site.url }}/images/react.png" alt="ReactJS">ReactJS</li>
 	<li><img src="{{ site.url }}/images/angular.png" alt="Angular">Angular</li>
+	<li><img src="{{ site.url }}/images/spring.svg" alt="Spring">Spring</li>
 	<li><img src="{{ site.url }}/images/gmaps.png" alt="Google Maps">Google Maps API</li>
 	<li><img src="{{ site.url }}/images/openw.png" alt="OpenWeather API">OpenWeather API</li>
 </ul>
