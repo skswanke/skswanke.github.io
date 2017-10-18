@@ -58,8 +58,7 @@ Google Maps"></a>
     </ul>
   </li>
   <li>
-    <a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank"><img src="{{ site.url }}/images/
-react.png" alt="React.js"></a>
+    <a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank"><img src="{{ site.url }}/images/react.png" alt="React.js"></a>
     <h4><a href="https://github.com/skswanke/ReactWeatherAppPublic" target="_blank">React Weather App
 </a></h4>
     <ul>
