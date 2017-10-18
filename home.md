@@ -15,7 +15,8 @@ permalink: /
 </div>
 <h3>Technical Strengths</h3>
 <div class="col-sm-6">
-<ul><h5>Languages/Web Markup</h5><hr>
+<h5>Languages/Web Markup</h5><hr>
+<ul>
 	<li><img src="{{ site.url }}/images/java.png" alt="Java">Java</li>
 	<li><img src="{{ site.url }}/images/python.png" alt="Python"> Python</li>
 	<li><img src="{{ site.url }}/images/js.png" alt="JavaScript">JavaScript</li>
@@ -26,7 +27,8 @@ permalink: /
 </ul>
 </div>
 <div class="col-sm-6">
-<ul><h5>Libraries/APIs</h5><hr>
+<h5>Libraries/APIs</h5><hr>
+<ul>
 	<li><img src="{{ site.url }}/images/react.png" alt="ReactJS">ReactJS</li>
 	<li><img src="{{ site.url }}/images/angular.png" alt="Angular">Angular</li>
 	<li><img src="{{ site.url }}/images/spring.svg" alt="Spring">Spring</li>
