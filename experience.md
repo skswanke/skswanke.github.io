@@ -10,7 +10,7 @@ permalink: /experience/
 <ul class="exp">
 	<li>
 		<h4>Dealer.com</h4>
-		<p>Title: User Interface Developer<br>
+		<p>Title: Software Engineer<br>
 		Dates: May 2016 - Current<br>
 		Responsibilities: Write front-ends in HTML/CSS/JS. Write backend services in Java.</p>
 		<hr>
