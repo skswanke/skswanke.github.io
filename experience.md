@@ -11,7 +11,7 @@ permalink: /experience/
 	<li>
 		<h4>Dealer.com</h4>
 		<p>Title: Software Engineer<br>
-		Dates: May 2016 - Current<br>
+		Dates: May 2016 - Present<br>
 		Responsibilities: Write front-ends in HTML/CSS/JS. Write backend services in Java.</p>
 		<hr>
 	</li>
@@ -25,7 +25,7 @@ permalink: /experience/
 	<li>
 		<h4>University of Vermont</h4>
 		<p>Title: Web Developer<br>
-		Dates: Oct. 2014 - Present<br>
+		Dates: Oct. 2014 - May 2016<br>
 		Responsibilities: Develop web pages in PHP, HTML, JS.<br>
 		Link: <a href="http://uvm.edu/~cems">http://uvm.edu/~cems</a><br></p>
 		<hr>
