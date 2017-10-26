@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/skswanke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samswanke.com
+  * I am skswanke (https://keybase.io/skswanke) on keybase.
+  * I have a public key ASA3pV8zzsN4JfjSECjLvTCbBOfoCcq1GfL-HCEk88iZdwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a",
+      "host": "keybase.io",
+      "kid": "012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a",
+      "uid": "4f47b2510e5be94de98d2f4677f85419",
+      "username": "skswanke"
+    },
+    "merkle_root": {
+      "ctime": 1508984135,
+      "hash": "73de846548a13e779dd9f3ceac6147f72deccf45dfd4d3968c8358ac9aed8dd362ddaaeafe54c58756d420b0234877ec88a01bc47f6667eb5c05fb18e8752d00",
+      "hash_meta": "ec6d724df4f293a67e786f06f8f960393b604882a017eef306d4f91a6176381d",
+      "seqno": 1630794
+    },
+    "service": {
+      "hostname": "samswanke.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508984149,
+  "expire_in": 504576000,
+  "prev": "d1ae54c04d74ac60499f97975fe5f44f8637f4cc564356555c1090d1d8b3cc67",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgN6VfM87DeCX40hAoy70wmwTn6AnKtRny/hwhJPPImXcKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzdhNTVmMzNjZWMzNzgyNWY4ZDIxMDI4Y2JiZDMwOWIwNGU3ZTgwOWNhYjUxOWYyZmUxYzIxMjRmM2M4OTk3NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzdhNTVmMzNjZWMzNzgyNWY4ZDIxMDI4Y2JiZDMwOWIwNGU3ZTgwOWNhYjUxOWYyZmUxYzIxMjRmM2M4OTk3NzBhIiwidWlkIjoiNGY0N2IyNTEwZTViZTk0ZGU5OGQyZjQ2NzdmODU0MTkiLCJ1c2VybmFtZSI6InNrc3dhbmtlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4OTg0MTM1LCJoYXNoIjoiNzNkZTg0NjU0OGExM2U3NzlkZDlmM2NlYWM2MTQ3ZjcyZGVjY2Y0NWRmZDRkMzk2OGM4MzU4YWM5YWVkOGRkMzYyZGRhYWVhZmU1NGM1ODc1NmQ0MjBiMDIzNDg3N2VjODhhMDFiYzQ3ZjY2NjdlYjVjMDVmYjE4ZTg3NTJkMDAiLCJoYXNoX21ldGEiOiJlYzZkNzI0ZGY0ZjI5M2E2N2U3ODZmMDZmOGY5NjAzOTNiNjA0ODgyYTAxN2VlZjMwNmQ0ZjkxYTYxNzYzODFkIiwic2Vxbm8iOjE2MzA3OTR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2Ftc3dhbmtlLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg5ODQxNDksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDFhZTU0YzA0ZDc0YWM2MDQ5OWY5Nzk3NWZlNWY0NGY4NjM3ZjRjYzU2NDM1NjU1NWMxMDkwZDFkOGIzY2M2NyIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDuwcuSA7sItKXC2/IwEDoKkmsC0b03U4ovceKhpfFlNa7ZHnV2LaKpvHrJ0uD2K45l2F0tlv2xfC7pxbNIafIDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgNzl5UV3Kp838XraKQbTCZB6tDYfqrOu0y1TCD13EpcejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skswanke
+
+==================================================================
