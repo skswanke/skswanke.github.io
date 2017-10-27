@@ -24,7 +24,7 @@ permalink: /projects/
     <ul>
       <li>Calculates cost of owning a car when bought or leased</li>
       <li>Uses React to live update as data is added</li>
-      <li>Generates calculations based on multiple factors</li>
+      <li>Generates calculations based on multiple factors</li>
     </ul>
   </li>
   <li>
