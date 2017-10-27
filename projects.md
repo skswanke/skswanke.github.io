@@ -19,6 +19,15 @@ permalink: /projects/
     </ul>
   </li>
   <li>
+    <a href="https://github.com/skswanke/buy-vs-lease" target="_blank"><img src="{{ site.url }}/images/react.png" alt="React"></a>
+    <h4><a href="https://github.com/skswanke/pruferdecode" target="_blank">Buy Vs Lease Web App</a></h4>
+    <ul>
+      <li>Calculates cost of owning a car when bought or leased</li>
+      <li>Uses React to live update as data is added</li>
+      <li>Generates calculations based on multiple factors</li>
+    </ul>
+  </li>
+  <li>
     <a href="https://github.com/skswanke/pruferdecode" target="_blank"><img src="{{ site.url }}/images/d3.png"
  alt="Python"></a>
     <h4><a href="https://github.com/skswanke/pruferdecode" target="_blank">Prufer Code Labeled Tree Generator</a></h4>
