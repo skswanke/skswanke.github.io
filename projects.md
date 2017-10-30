@@ -25,7 +25,7 @@ permalink: /projects/
       <li>Calculates cost of owning a car when bought or leased</li>
       <li>Uses React to live update as data is added</li>
       <li>Generates calculations based on multiple factors</li>
-      <li><a href="/buy-vs-lease">Live Demo</a></li>
+      <li><a href="http://samswanke.com/buy-vs-lease">Live Demo</a></li>
     </ul>
   </li>
   <li>
@@ -36,7 +36,7 @@ permalink: /projects/
       <li>Graph generator based on the concept of Prufer codes in graph theory</li>
       <li>Takes a unique string of integers and outputs a unique labeled tree</li>
       <li>Uses D3.js to create interactive graphs</li>
-      <li><a href="/pruferdecode">Live Demo</a></li>
+      <li><a href="http://samswanke.com/pruferdecode">Live Demo</a></li>
     </ul>
   </li>
   <li>
