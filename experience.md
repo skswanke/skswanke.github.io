@@ -18,7 +18,7 @@ permalink: /experience/
       {% if job.title %}Title: {{ job.title }}<br/>{% endif %}
       {% if job.dates %}Dates: {{ job.dates }}<br/>{% endif %}
       {% if job.description %}Responsibilities: {{ job.description }}<br/>{% endif %}
-      {% if job.link %}Link: {{ job.link }}<br/>{% endif %}
+      {% if job.link %}Link: <a href="{{ job.link }}" target="_blank">{{ job.link }}</a><br/>{% endif %}
     </p>
   </li>
   <hr>
