@@ -7,6 +7,7 @@ permalink: /experience/
 
 # Experience
 
+<hr>
 <ul class="exp">
 {% for jobObj in site.data.experience %}
 {% assign job = jobObj[1] %}
