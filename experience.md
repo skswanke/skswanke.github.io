@@ -15,10 +15,10 @@ permalink: /experience/
   <li>
     <h4 class="name">{{ job.company }}</h4>
     <p>
-      {% if job.title %}{{ job.title }}<br/>{% endif %}
-      {% if job.dates %}{{ job.dates }}<br/>{% endif %}
-      {% if job.description %}{{ job.description }}<br/>{% endif %}
-      {% if job.link %}{{ job.link }}<br/>{% endif %}
+      {% if job.title %}Title: {{ job.title }}<br/>{% endif %}
+      {% if job.dates %}Dates: {{ job.dates }}<br/>{% endif %}
+      {% if job.description %}Responsibilities: {{ job.description }}<br/>{% endif %}
+      {% if job.link %}Link: {{ job.link }}<br/>{% endif %}
     </p>
   </li>
   <hr>
