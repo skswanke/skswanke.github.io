@@ -2,9 +2,9 @@
 title: Sam Swanke
 email: skswanke@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sam Swanke is a computer science student as well as a web and software developer. 
-  He is currently attending college at the University of Vermont. 
-  He is also looking for an Internship for summer 2016.
+  Sam Swanke is a software engineer at Dealer.com in Burlington, VT.
+  He recieved a Bachelor of Science in Computer Science from the 
+  University of Vermont.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://samswanke.com" # the base hostname & protocol for your site
 twitter_username:
