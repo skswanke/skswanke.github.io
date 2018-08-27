@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title }} - Sam Swanke{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="icon" href="{{ site.url }}/images/icon.png" type="image/png">
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css">
   <script>if (window.location.protocol != "https:") {window.location.protocol = "https";};</script>
 </head>
