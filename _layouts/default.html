@@ -1,21 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang='en'>
   {% include head.html %}
-
   <body>
-
-    {% include header.html %}
-
-    <div id="main" class="container">
-        {{ content }}
-    </div>
-
-    {% include footer.html %}
-    
-  <script src="{{ site.url }}/js/jquery-2.1.4.min.js"></script>
-  <script src="{{ site.url }}/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/js/nav.js"></script>
+    {{ content }}
   </body>
-
 </html>

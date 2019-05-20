@@ -5,7 +5,7 @@ description: Sam Swanke is a Computer Science Bachelor of Science with a Minor i
 permalink: /coursework/
 ---
 
-<div id="coursework">
+<div id='coursework'>
 <h1>Course Work</h1><hr>
 <ul>
 	<li><h3>Computer Science</h3>
