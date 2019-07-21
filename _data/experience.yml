@@ -1,37 +1,44 @@
+cala:
+  company: CALA
+  title: Software Engineer
+  dates: Aug 2018 - Present
+  description: Built world class fashion product creation and manufacturing lifecycle product.
+  link: https://ca.la
+
+cosechando:
+  company: Cosechando Felicidad Inc.
+  title: Front-end Engineer
+  dates: Aug 2015 - Present
+  description: Develop web pages and maintain website hosted on Github Pages
+  link: https://harvestinghappiness.org/
+
 dealer:
   company: Dealer.com
   title: Software Engineer
-  dates: July 2017 - Present
+  dates: Jul 2017 - Aug 2018
   description: Write front-ends in React, HTML, SASS/CSS, JS. Write backend services in Java
 
 dealerintern:
   company: Dealer.com
   title: Software Engineering Intern
-  dates: May 2016 - June 2017
+  dates: May 2016 - Jun 2017
   description: Write front-ends in React, HTML, SASS/CSS, JS. Write backend services in Java
-
-cosechando:
-  company: Cosechando Felicidad Inc.
-  title: Front-end Engineer
-  dates: August 2015 - Present
-  description: Develop web pages and maintain website hosted on Github Pages
-  link: https://harvestinghappiness.org/
 
 intersil:
   company: Intersil Corp.
-  title: Web Development Engineering Intern
-  dates: May 2015 - August 2015
+  title: Web Engineering Intern
+  dates: May 2015 - Aug 2015
   description: Develop Web pages and styles for Adobe CQ templates
 
 uvm:
   company: University of Vermont
   title: Web Developer
-  dates: October 2014 - May 2016
+  dates: Oct 2014 - May 2016
   description: Develop web pages in PHP, HTML, JS
   
 hack:
   company: Tufts Hackathon
   title: Team Member
-  dates: October 2014
+  dates: Oct 2014
   description: Created a game of snake in Google Maps with a team of four friends
   link: https://github.com/blewin1/gmapsnake

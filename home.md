@@ -4,13 +4,16 @@ description: Sam Swanke is a computer science student as well as a web and softw
 permalink: /
 ---
 
-<div id='page home'>
-  <h1>SAM SWANKE</h1>
-  <h3>software engineer / CALA / NYC</h3>
+<div class='page home'>
+  <header>
+    <h1>SAM SWANKE</h1>
+    <h3>software engineer / CALA / NYC</h3>
+  </header>
 
   <div class='nav'>
     <a href='/experience'>experience</a>
     <a href='/opensource'>open source</a>
     <a href='/photography'>photography</a>
+    <a href='/contact'>contact</a>
   </div>
 </div>
