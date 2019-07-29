@@ -2,4 +2,11 @@
 layout: default
 ---
 
-{{ content }}
+<div id="{{ page.id }}" class="page {{ page.id }}">
+  <header>
+    <h1>{{ page.title }}</h1>
+    <a class="nav-back" href="/"><h3>back</h3></a>
+  </header>
+
+  {{ content }}
+</div>

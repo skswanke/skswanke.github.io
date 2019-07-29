@@ -1,12 +1,12 @@
 # Site settings
 title: Sam Swanke
 email: skswanke@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until 'baseurl:'
   Sam Swanke is a software engineer at Dealer.com in Burlington, VT.
   He recieved a Bachelor of Science in Computer Science from the 
   University of Vermont.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://samswanke.com" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://samswanke.com' # the base hostname & protocol for your site
 twitter_username:
 github_username:  skswanke
 

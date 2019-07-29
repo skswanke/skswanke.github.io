@@ -11,36 +11,36 @@ I hereby claim:
 To do so, I am signing this object:
 
 {
-  "body": {
-    "key": {
-      "eldest_kid": "012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a",
-      "host": "keybase.io",
-      "kid": "012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a",
-      "uid": "4f47b2510e5be94de98d2f4677f85419",
-      "username": "skswanke"
+  'body': {
+    'key': {
+      'eldest_kid': '012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a',
+      'host': 'keybase.io',
+      'kid': '012037a55f33cec37825f8d21028cbbd309b04e7e809cab519f2fe1c2124f3c899770a',
+      'uid': '4f47b2510e5be94de98d2f4677f85419',
+      'username': 'skswanke'
     },
-    "merkle_root": {
-      "ctime": 1508984135,
-      "hash": "73de846548a13e779dd9f3ceac6147f72deccf45dfd4d3968c8358ac9aed8dd362ddaaeafe54c58756d420b0234877ec88a01bc47f6667eb5c05fb18e8752d00",
-      "hash_meta": "ec6d724df4f293a67e786f06f8f960393b604882a017eef306d4f91a6176381d",
-      "seqno": 1630794
+    'merkle_root': {
+      'ctime': 1508984135,
+      'hash': '73de846548a13e779dd9f3ceac6147f72deccf45dfd4d3968c8358ac9aed8dd362ddaaeafe54c58756d420b0234877ec88a01bc47f6667eb5c05fb18e8752d00',
+      'hash_meta': 'ec6d724df4f293a67e786f06f8f960393b604882a017eef306d4f91a6176381d',
+      'seqno': 1630794
     },
-    "service": {
-      "hostname": "samswanke.com",
-      "protocol": "http:"
+    'service': {
+      'hostname': 'samswanke.com',
+      'protocol': 'http:'
     },
-    "type": "web_service_binding",
-    "version": 1
+    'type': 'web_service_binding',
+    'version': 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "1.0.33"
+  'client': {
+    'name': 'keybase.io go client',
+    'version': '1.0.33'
   },
-  "ctime": 1508984149,
-  "expire_in": 504576000,
-  "prev": "d1ae54c04d74ac60499f97975fe5f44f8637f4cc564356555c1090d1d8b3cc67",
-  "seqno": 12,
-  "tag": "signature"
+  'ctime': 1508984149,
+  'expire_in': 504576000,
+  'prev': 'd1ae54c04d74ac60499f97975fe5f44f8637f4cc564356555c1090d1d8b3cc67',
+  'seqno': 12,
+  'tag': 'signature'
 }
 
 which yields the signature:

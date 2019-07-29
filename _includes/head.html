@@ -1,12 +1,11 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   <title>{% if page.title %}{{ page.title }} - Sam Swanke{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="icon" href="{{ site.url }}/images/icon.png" type="image/png">
-  <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ site.url }}/css/style.css">
-  <script>if (window.location.protocol != "https:") {window.location.protocol = "https";};</script>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  <link rel='icon' href='{{ site.url }}/images/icon.png' type='image/png'>
+  <link rel='stylesheet' href='{{ site.url }}/css/style.css'>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap" rel="stylesheet">
 </head>
