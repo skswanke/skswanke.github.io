@@ -15,5 +15,6 @@ permalink: /
     <a href='/opensource'>open source</a>
     <a href='/photography'>photography</a>
     <a href='/contact'>contact</a>
+    <a href='https://github.com/skswanke'>github</a>
   </div>
 </div>
