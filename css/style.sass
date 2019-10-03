@@ -87,6 +87,29 @@ a
         margin: auto
         text-align: center
 
+#post
+    max-width: 800px
+    padding-left: 16px
+    padding-right: 16px
+    background-color: white
+    p
+        color: black
+    h1, h2, h3
+        color: #222
+
+#post::before
+    background-image: url(/images/nyc/wtc.jpg)
+    background-position: center
+    background-size: cover
+    content: ""
+    display: block
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    z-index: -2
+
 .page, #post
     padding: 32px 44px
     width: 100vw

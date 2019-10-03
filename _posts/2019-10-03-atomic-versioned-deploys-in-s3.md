@@ -152,6 +152,8 @@ Setup:
         3. Change distribution origin path
         4. Invalidate cache
 
+        <br>
+
         <script src="https://gist.github.com/skswanke/7f3cb7d533cf4e32ae7445438b91920d.js"></script>
 
 ## Future Improvements
