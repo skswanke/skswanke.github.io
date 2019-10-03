@@ -5,8 +5,6 @@ author: sam
 date:   2019-10-03 12:00:00
 ---
 
-# Atomic Versioned Deploys in S3
-
 ![Solution Diagram](/images/s3-atomic-deploys/solution.png)
 
 In this post I'm going to break down some of the problems we've had, and the strategy we made for setting up a CI/CD managed, versioned deploy system for static sites in AWS using S3 and CloudFront. While this will work for your personal site I don't recommend it as it is unlikely to stay within the free tier of AWS for very long.
