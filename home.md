@@ -14,6 +14,7 @@ permalink: /
     <a href='/experience'>experience</a>
     <a href='/opensource'>open source</a>
     <a href='/photography'>photography</a>
+    <a href='/blog'>blog</a>
     <a href='/contact'>contact</a>
     <a href='https://github.com/skswanke'>github</a>
   </div>
