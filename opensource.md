@@ -9,7 +9,7 @@ permalink: /opensource/
 <ul>
   <li>
     <a href='https://github.com/ca-la/react-focused-key-handler' target='_blank'><img src='{{ site.url }}/images/react.png' alt
-='Harvesting Happiness'></a>
+='React Focused Key Handler'></a>
     <a href='https://github.com/ca-la/react-focused-key-handler' target='_blank'>React Focused Key Handler</a>
   </li>
   <li>
