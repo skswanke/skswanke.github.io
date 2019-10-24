@@ -8,6 +8,11 @@ permalink: /opensource/
 
 <ul>
   <li>
+    <a href='https://github.com/ca-la/react-focused-key-handler' target='_blank'><img src='{{ site.url }}/images/react.png' alt
+='Harvesting Happiness'></a>
+    <a href='https://github.com/ca-la/react-focused-key-handler' target='_blank'>React Focused Key Handler</a>
+  </li>
+  <li>
     <a href='http://www.harvestinghappiness.org' target='_blank'><img src='{{ site.url }}/images/harvesting.png' alt
 ='Harvesting Happiness'></a>
     <a href='http://www.harvestinghappiness.org' target='_blank'>harvestinghapiness.org</a>
