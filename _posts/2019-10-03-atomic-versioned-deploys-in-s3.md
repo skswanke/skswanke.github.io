@@ -150,7 +150,8 @@ Setup:
         1. Get git tag for new folder
         2. Sync new assets to new folder in S3
         3. Change distribution origin path
-        4. Invalidate cache
+        4. Wait for invalidation to complete
+        5. Invalidate cache
 
         <br>
 
