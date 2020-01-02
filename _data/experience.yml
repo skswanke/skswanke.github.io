@@ -4,13 +4,6 @@ feather:
   dates: December 2019 - Present
   description: Changing the furniture industry through logistics and convinience.
   link: https://livefeather.com
-  
-cala:
-  company: CALA
-  title: Software Engineer
-  dates: Aug 2018 - November 2019
-  description: Built world class fashion product creation and manufacturing lifecycle product.
-  link: https://ca.la
 
 cosechando:
   company: Cosechando Felicidad Inc.
@@ -18,6 +11,13 @@ cosechando:
   dates: Aug 2015 - Present
   description: Develop web pages and maintain website hosted on Github Pages
   link: https://harvestinghappiness.org/
+  
+cala:
+  company: CALA
+  title: Software Engineer
+  dates: Aug 2018 - November 2019
+  description: Built world class fashion product creation and manufacturing lifecycle product.
+  link: https://ca.la
 
 dealer:
   company: Dealer.com
