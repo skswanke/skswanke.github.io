@@ -1,13 +1,13 @@
 ---
 layout: default
-description: Sam Swanke is a computer science student as well as a web and software developer. He is currently attending college at the University of Vermont.
+description: Sam Swanke is a senior software engineer at Feather and hobby photographer, working in NYC.
 permalink: /
 ---
 
 <div class='page home'>
   <header>
     <h1>SAM SWANKE</h1>
-    <h3>software engineer / CALA / NYC</h3>
+    <h3>software engineer / Feather / NYC</h3>
   </header>
 
   <div class='nav'>
