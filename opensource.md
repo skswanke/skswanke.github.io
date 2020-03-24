@@ -7,6 +7,11 @@ permalink: /opensource/
 ---
 
 <ul>
+    <li>
+    <a href='https://github.com/skswanke/hn' target='_blank'><img src='{{ site.url }}/images/rust.png' alt
+='HackerNews Terminal Reader'></a>
+    <a href='https://github.com/skswanke/hn' target='_blank'>HackerNews Terminal Reader</a>
+  </li>
   <li>
     <a href='https://github.com/ca-la/react-focused-key-handler' target='_blank'><img src='{{ site.url }}/images/react.png' alt
 ='React Focused Key Handler'></a>
