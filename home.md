@@ -16,6 +16,7 @@ permalink: /
     <a href='/photography'>photography</a>
     <a href='/blog'>blog</a>
     <a href='/contact'>contact</a>
-    <a href='https://github.com/skswanke'>github</a>
+    <a rel="noopener noreferrer" href='https://github.com/skswanke'>github</a>
+    <a href='/resume/resume.pdf'>resume</a>
   </div>
 </div>
