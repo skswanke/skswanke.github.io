@@ -1,17 +1,17 @@
+amazon:
+  company: Amazon
+  title: SDE II
+  dates: Aug 2021 - Present
+  description: The worlds most customer-centric company.
+  link: https://amazon.com
+
 feather:
   company: Feather
   title: Senior Software Engineer
-  dates: Dec 2019 - Present
+  dates: Dec 2019 - Jul 2021
   description: Changing the furniture industry through logistics and convinience.
   link: https://livefeather.com
 
-cosechando:
-  company: Cosechando Felicidad Inc.
-  title: Front-end Engineer
-  dates: Aug 2015 - Present
-  description: Develop web pages and maintain website hosted on Github Pages
-  link: https://harvestinghappiness.org/
-  
 cala:
   company: CALA
   title: Software Engineer
@@ -31,6 +31,13 @@ dealerintern:
   dates: May 2016 - Jun 2017
   description: Write front-ends in React, HTML, SASS/CSS, JS. Write backend services in Java
 
+cosechando:
+  company: Cosechando Felicidad Inc.
+  title: Front-end Engineer
+  dates: Aug 2015 - Present
+  description: Develop web pages and maintain website hosted on Github Pages
+  link: https://harvestinghappiness.org/
+  
 intersil:
   company: Intersil Corp.
   title: Web Engineering Intern
