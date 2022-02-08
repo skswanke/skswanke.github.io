@@ -7,7 +7,7 @@ permalink: /
 <div class='page home'>
   <header>
     <h1>SAM SWANKE</h1>
-    <h3>software engineer / Feather / NYC</h3>
+    <h3>software engineer / amazon / nyc</h3>
   </header>
 
   <div class='nav'>
