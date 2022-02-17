@@ -1,12 +1,12 @@
 ---
 layout: default
-description: Sam Swanke is a senior software engineer at Feather and hobby photographer, working in NYC.
+description: Sam Swanke is a software engineer at Amazon and hobby photographer, working in NYC.
 permalink: /
 ---
 
 <div class='page home'>
   <header>
-    <h1>SAM SWANKE</h1>
+    <h1>Sam Swanke</h1>
     <h3>software engineer / amazon / nyc</h3>
   </header>
 
