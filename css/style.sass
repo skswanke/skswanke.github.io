@@ -4,8 +4,9 @@
 $font-stack: 'Open Sans', sans-serif
 $font-brand: 'Open Sans', sans-serif  
 $color-primary: white
-$color-secondary: #7b7b7b
-$color-text: #c9c9c9
+$color-secondary: #e1e1e1
+$color-text: #ffffff
+$color-hover: #bababa
 
 /* General */
 
@@ -73,14 +74,14 @@ a
     a
         color: $color-text
         &:hover
-            color: $color-primary
+            color: $color-hover
     @media (max-width: 768px)
         margin: auto
         text-align: center
 .nav-back
     h3
         &:hover
-            color: $color-text
+            color: $color-hover
     @media (max-width: 768px)
         margin: auto
         text-align: center
@@ -210,7 +211,7 @@ a
     a
         color: $color-text
         &:hover
-            color: $color-primary
+            color: $color-hover
         font-size: 36px
         margin-right: 16px
         @media (max-width: 768px)
@@ -280,7 +281,7 @@ ul.blog
         color: $color-secondary
         margin-right: 8px
         &:hover
-            color: $color-primary
+            color: $color-hover
     .meta
         display: inline
         font-size: 12px
